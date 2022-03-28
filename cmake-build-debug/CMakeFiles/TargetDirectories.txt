@@ -1,0 +1,3 @@
+/home/itamarq/CLionProjects/CPP/notebook-b/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/itamarq/CLionProjects/CPP/notebook-b/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/itamarq/CLionProjects/CPP/notebook-b/cmake-build-debug/CMakeFiles/notebook_b.dir
